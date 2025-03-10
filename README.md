@@ -1,4 +1,4 @@
-# Hey there! I'm Menna Mohammed 👋
+# Hello: I am Menna, Thanks for stopping by!
 
 Content writer | Digital storyteller | SEO enthusiast
 
@@ -16,7 +16,7 @@ I'm a passionate content creator with a knack for crafting engaging, SEO-optimiz
 - **Zaaednews** (Jun - Aug 2024): Editing press releases as a trainee journalist.
 
 ### Check Out My Work
-- [Marketing Content Samples](https://github.com/mennatullahx/marketing-content)
+- [Socialz Marketing Content](https://github.com/mennatullahx/Socialz-Content)
 - [Kaleem Media Scripts](https://github.com/mennatullahx/kaleem-training)
 - [Zaaednews Press Releases](https://github.com/mennatullahx/Zaaednews-training)
 
