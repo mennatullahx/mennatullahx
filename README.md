@@ -7,22 +7,27 @@ I'm a passionate content creator with a knack for crafting engaging, SEO-optimiz
 ### What I Do
 - ✍️ **Content Writing**: Long-form articles, marketing campaigns, and Reels scripts that captivate audiences.
 - 📈 **SEO & Digital Marketing**: Optimizing content with keyword precision to boost visibility and engagement.
+- 🎬 **Social Media**: Creating compelling Reels content, scripts, and campaigns to engage followers.
+- 🎙 **Voiceovers**: Adding voiceover to videos to create a more immersive experience.
+- 🎥 **Video Editing**: Editing Reels and videos using CapCut and Premiere.
 - 📝 **Editing**: Polishing scripts and articles for clarity, style, and accuracy.
 - 🌍 **Creative Projects**: Contributing to the growth of rich, meaningful Arabic content online.
 
 ### Experience Highlights
-- **Socialz Marketing Agency** (Feb 2025 - Present): Writing 3,000-word SEO articles and Reels content.
+- **Marketing Spot** (Apr 2025 - Present): Writing scripts, Reels content, voiceovers, and video editing.
+- **Socialz Marketing Agency** (Feb 2025 - Mar 2025): Writing 3,000-word SEO articles and Reels content.
 - **Kaleem Platform** (Aug - Nov 2024): Crafting entertaining media scripts in Turkey.
 - **Zaaednews** (Jun - Aug 2024): Editing press releases as a trainee journalist.
 
 ### Check Out My Work
+- [Marketing Spot](https://github.com/mennatullahx/Marketing-Spot)
 - [Socialz Marketing Content](https://github.com/mennatullahx/Socialz-Content)
 - [Kaleem Media Scripts](https://github.com/mennatullahx/kaleem-training)
 - [Zaaednews Press Releases](https://github.com/mennatullahx/Zaaednews-training)
 
 ### Skills Toolbox
-- **Writing**: Creative Storytelling | Marketing Copy | Long-Form Content
-- **Tech**: SEO | Keyword Research | Content Strategy
+- **Writing**: Creative Storytelling | Copy Writing | Marketing Copy | Long-Form Content
+- **Tech**: SEO | Keyword Research | Content Strategy | Video Editing (CapCut Premiere)
 - **Soft Skills**: Analytical Thinking | Attention to Detail | Collaboration
 
 ### Fun Facts
