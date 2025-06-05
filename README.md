@@ -37,7 +37,7 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 
 ### Content Creator  | Marketing Spot, Cairo (Apr 2025)  
 - Script creative and engaging Reels for social media platforms that drive audience attention and shareability.  
-- Shoot, edit, and add voice‑overs to short‑form video content using **CapCut** and **Premiere**.  
+- Shoot, edit, and add voice‑overs to short‑form video content using **CapCut Premiere**.  
 - Refine video narratives to ensure clarity, brand consistency, and viewer engagement.  
 - Collaborate with designers to align visual style with copy and overall campaign goals.  
 - GitHub: [Marketing‑Spot](https://github.com/mennatullahx/Marketing-Spot)
@@ -66,7 +66,7 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 ## 🧰 Skills Toolbox
 
 **Content & Writing**  
-- Creative Storytelling | Copywriting | Long‑Form Articles | Marketing Copy  
+- Creative Storytelling | Brand Storytelling | Narrative Thinking | Journalistic Writing | Copywriting | Long‑Form Articles | Marketing Copy  
 - Arabic & English
 
 **Content Strategy & Planning**  
@@ -79,10 +79,10 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 
 **Social Media & Video**  
 - Reels Scripting | Instagram Highlights Design | Campaign Development  
-- Video Production: Scripting, Shooting, Editing (CapCut & Premiere) | Voice‑Over Copy  
+- Video Production: Scripting, Shooting, Editing (CapCut Premiere) | Voice‑Over Copy  
 
 **Tools & Technologies**  
-- Google Workspace (Docs, Sheets, Slides) | CapCut | Adobe Premiere | WordPress | Canva  
+- Google Workspace (Docs, Sheets, Slides) | CapCut Premiere | Canva  
 
 **Soft Skills**  
 - Analytical Thinking | Attention to Detail | Team Collaboration | Research & Fact‑Checking | Time Management  
