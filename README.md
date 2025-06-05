@@ -31,7 +31,9 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 - Authored **company profiles** and brand narratives to highlight service offerings, core values, and competitive advantages.  
 - Designed and scripted **Instagram Highlights** assets to strengthen social media presence and brand recall.  
 - Built **website content plans & draft copy** (menu structure, page outlines, copywriting) using Google Sheets.  
-- Coordinated end‑to‑end project deliverables—Google Docs for strategy documents, Google Sheets for content calendars, and collaborative feedback loops with clients.  
+- Coordinated end‑to‑end project deliverables—Google Docs for strategy documents, Google Sheets for content calendars, and collaborative feedback loops with clients.
+- GitHub: [Ezdihar](https://github.com/mennatullahx/Ezdhar-Portfolio)
+
 
 ### Content Creator  | Marketing Spot, Cairo (Apr 2025)  
 - Script creative and engaging Reels for social media platforms that drive audience attention and shareability.  
@@ -65,7 +67,7 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 
 **Content & Writing**  
 - Creative Storytelling | Copywriting | Long‑Form Articles | Marketing Copy  
-- Arabic & English (fluent)  
+- Arabic & English
 
 **Content Strategy & Planning**  
 - Editorial Calendars | Audience Research | Brand Voice Guidelines | Marketing Action Plans  
