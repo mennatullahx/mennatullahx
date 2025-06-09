@@ -65,28 +65,24 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 
 ## 🧰 Skills Toolbox
 
-**Content & Writing**  
-- Creative Storytelling | Brand Storytelling | Narrative Thinking | Journalistic Writing | Copywriting | Long‑Form Articles | Marketing Copy  
+**Content Writing**  
+- Creative Storytelling | Brand Narratives | Journalistic Writing | Marketing Copy | Long‑Form Articles  
 - Arabic & English
 
-**Content Strategy & Planning**  
-- Editorial Calendars | Audience Research | Brand Voice Guidelines | Marketing Action Plans  
-- Company Profiling | Content Mapping (Google Docs & Sheets)
-
 **Digital Marketing & SEO**  
-- Keyword Research | On‑Page Optimization | Google Analytics | Performance Tracking  
-- Email Campaign Copy | Landing Page Copywriting  
+- Content Strategy | Keyword Research | On-Page SEO Optimization | Editorial Planning.
 
-**Social Media & Video**  
-- Reels Scripting | Instagram Highlights Design | Campaign Development  
-- Video Production: Scripting, Shooting, Editing (CapCut Premiere) | Voice‑Over Copy  
+**Multimedia Production**  
+- Social-media Scripting (Reels) | Voice-Overs | Video Editing (CapCut Premiere) | basic graphic design (Canva)
 
-**Tools & Technologies**  
-- Google Workspace (Docs, Sheets, Slides) | CapCut Premiere | Canva  
+**Editing**
+- Proofreading | Content Refinement
+
+**Tools**  
+- Google Workspace (Docs, Sheets, Slides)  
 
 **Soft Skills**  
-- Analytical Thinking | Attention to Detail | Team Collaboration | Research & Fact‑Checking | Time Management  
-
+- Research & Analysis | Proofreading & Editing | Collaborative Teamwork | Attention to Detail
 ---
 
 ## 🎓 Education
