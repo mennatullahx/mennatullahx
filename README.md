@@ -1,7 +1,7 @@
 # Hello: I’m Menna Mohammed  
-**Content Writer | Digital Storyteller | SEO & Content Strategist**
+**Content Writer & Strategist | Social Media Specialist**
 
-I’m a passionate content creator who loves blending storytelling with strategy. From crafting long-form articles and creative media scripts to devising SEO-optimized campaigns and designing social media assets, my goal is to deliver words that inform, entertain, and inspire—especially in Arabic digital spaces.
+I write strategic, story-driven content that helps brands in Arabic and English connect, rank, and convert.
 
 ---
 
@@ -12,53 +12,62 @@ I’m a passionate content creator who loves blending storytelling with strategy
 - 💻 [github.com/mennatullahx](https://github.com/mennatullahx)
 
 ---
+# 💼 Experience
 
-## 📝 Professional Summary  
-- **Content Strategy & Planning:** Developed end‑to‑end content roadmaps, marketing action plans, and company‐profile narratives for diverse clients across the Arab world.  
-- **Content Creation & Writing:** Skilled at crafting engaging, SEO‑optimized articles (up to 3,000 words), social media scripts (Reels, captions, Instagram Highlights), and voice‑over copy to drive engagement.  
-- **Digital Marketing & SEO:** Strong in keyword research, on‑page optimization, and analytics—ensuring content ranks, resonates, and converts.  
-- **Video Production & Editing:** Experienced in scripting, shooting, editing, and adding voice‑overs (CapCut & Premiere) to produce high‑impact short videos.  
-- **Collaboration & Project Management:** Managed multiple content projects simultaneously, working closely with designers, marketers, and stakeholders to meet tight deadlines and brand objectives.  
+### Social Media & Content Specialist — Bubble Blue (Canada) (since Jul 2025)
 
----
+- Conducted market research and built seasonal content plans.
+    
+- Produced & edited Reels, scheduled posts, and ran hiring-related campaigns.
 
-## 💼 Experience
+### Social Media & Content Strategist — Atomic (Russian Restaurant Project) (Aug–Oct 2025)
 
-### Content Strategist & Writer  | Ezdihar (Apr 2025 – May 2025)  
-Ezdihar is a content‑marketing agency serving various companies across the Arab world.  
-- Developed **comprehensive content strategies** (audience analysis, channel mapping, editorial calendars) for clients in shipping, hospitality, healthcare, manufacturing, childcare, and pharmacy.  
-- Created **marketing action plans** detailing campaign objectives, budgeting, channel selection, and timelines.  
-- Authored **company profiles** and brand narratives to highlight service offerings, core values, and competitive advantages.  
-- Designed and scripted **Instagram Highlights** assets to strengthen social media presence and brand recall.  
-- Built **website content plans & draft copy** (menu structure, page outlines, copywriting) using Google Sheets.  
-- Coordinated end‑to‑end project deliverables—Google Docs for strategy documents, Google Sheets for content calendars, and collaborative feedback loops with clients.
+- Designed full social strategy, launched official accounts, and defined content pillars.
+    
+- Wrote and scheduled all platform content; hired and managed a small creative team.
+    
+- Ran weekly client meetings and coordinated client–team communication.
+
+### Social Media Specialist — Lit & Glow (Aug–Sep 2025)
+
+- Built monthly directions and content calendars aligned with brand goals.
+    
+- Produced Instagram Stories and trend-based TikTok content to grow organic reach.
+    
+- Prepared creative briefs, monitored analytics, and managed community interactions.
+
+### Content Strategist & Writer — Ezdihar (Apr–May 2025)
+
+- Developed content roadmaps, editorial calendars, and marketing action plans.
+    
+- Authored company profiles, website copy drafts, and Instagram Highlights scripts.
+    
+- Coordinated deliverables and client feedback across Google Workspace.
+
 - GitHub: [Ezdihar](https://github.com/mennatullahx/Ezdhar-Portfolio)
 
+### Content Creator — Marketing Spot, Cairo (Apr 2025)
 
-### Content Creator  | Marketing Spot, Cairo (Apr 2025)  
-- Script creative and engaging Reels for social media platforms that drive audience attention and shareability.  
-- Shoot, edit, and add voice‑overs to short‑form video content using **CapCut Premiere**.  
-- Refine video narratives to ensure clarity, brand consistency, and viewer engagement.  
-- Collaborate with designers to align visual style with copy and overall campaign goals.  
+- Scripted and produced short-form Reels; edited voice-overs and refined narratives.
+  
 - GitHub: [Marketing‑Spot](https://github.com/mennatullahx/Marketing-Spot)
 
-### Content Writer  | Socialz Marketing Agency, Ben Suef (Feb 2025 – Mar 2025)  
-- Produced **3,000‑word SEO‑optimized articles** on diverse topics to boost client websites’ search rankings.  
-- Developed **Reels scripts** and short‑form copy tailored for Instagram and TikTok, resulting in measurable engagement increases.  
-- Wrote persuasive ad copy and product descriptions to drive clicks, conversions, and sales.  
-- Edited and optimized all content for readability, style, and keyword density.  
+### Content Writer — Socialz Marketing (Feb–Mar 2025)
+
+- Wrote SEO-optimized longform articles (3,000 words) and social ad copy to boost engagement.
+
 - GitHub: [Socialz‑Content](https://github.com/mennatullahx/Socialz-Content)
 
-### Content Writer  | Kaleem Platform, Turkey (Aug 2024 – Nov 2024)  
-- Crafted **creative media scripts** (video, audio, social snippets) that informed and entertained a multilingual audience.  
-- Collaborated with the design team to ensure script‑to‑screen consistency and brand tone.  
-- Conducted topic research and audience surveys to inform script angles and storytelling approaches.  
+### Content Writer — Kaleem Platform (Aug–Nov 2024)
+
+- Created multimedia scripts and collaborated on research-driven content angles.
+
 - GitHub: [kaleem‑training](https://github.com/mennatullahx/kaleem-training)
 
-### Trainee Journalist  | Zaaednews, Eldokky, Egypt (Jun 2024 – Aug 2024)  
-- Proofread and edited news articles, press releases, and web stories to ensure linguistic accuracy and journalistic integrity.  
-- Wrote and refined **press releases** that communicated clients’ key messages clearly and persuasively.  
-- Worked with the editorial team to fact‑check, source interviews, and meet tight publication deadlines.  
+### Trainee Journalist — Zaaednews (Jun–Aug 2024)
+
+- Proofread, edited, and wrote press releases and web stories under tight deadlines.
+
 - GitHub: [Zaaednews‑training](https://github.com/mennatullahx/Zaaednews-training)
 
 ---
@@ -66,23 +75,20 @@ Ezdihar is a content‑marketing agency serving various companies across the Ara
 ## 🧰 Skills Toolbox
 
 **Content Writing**  
-- Creative Storytelling | Brand Narratives | Journalistic Writing | Marketing Copy | Long‑Form Articles  
+- Creative Storytelling | Copywriting | Brand Narratives | Journalistic Writing
 - Arabic & English
 
-**Digital Marketing & SEO**  
-- Content Strategy | Keyword Research | On-Page SEO Optimization | Editorial Planning.
+**Strategy**  
+- Content Strategy | Market Research |  Content Planning & Scheduling |  Creative Brief Writing |  Analytics & Reporting | Social Media Management.
 
 **Multimedia Production**  
-- Social-media Scripting (Reels) | Voice-Overs | Video Editing (CapCut Premiere) | basic graphic design (Canva)
-
-**Editing**
-- Proofreading | Content Refinement
+- Social-media Scripting (Reels) | Reels Production | Voice-Overs | Video Editing (CapCut Premiere) | basic graphic design (Canva)
 
 **Tools**  
-- Google Workspace (Docs, Sheets, Slides)  
+- Google Workspace (Docs, Sheets, Slides) | Canva | CapCut | GitHub 
 
 **Soft Skills**  
-- Research & Analysis | Proofreading & Editing | Collaborative Teamwork | Attention to Detail
+-  Team Management | Client Communication | Hiring & Coordination
 ---
 
 ## 🎓 Education
